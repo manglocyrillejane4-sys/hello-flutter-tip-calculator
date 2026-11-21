@@ -1,0 +1,6 @@
+# Flutter/Dart/Pub specific
+.dart_tool/
+build/
+.pub/
+.packages
+pubspec.lock
